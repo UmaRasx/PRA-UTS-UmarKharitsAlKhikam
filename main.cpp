@@ -20,8 +20,8 @@
 const uint8_t arLed[LED_COUNT] = {LED_RED, LED_GREEN, LED_YELLOW};
 #endif
 
-const char *ssid = "Lab-Eng";
-const char *password = "Lab-Eng123!";
+const char *ssid = "vivoLatt1";
+const char *password = "alkhikam";
 #define MQTT_BROKER "broker.emqx.io"
 #define MQTT_TOPIC_PUBLISH "esp32_ken/data/lux"
 #define MQTT_TOPIC_PUBLISH2 "esp32_ken/data/humid"
